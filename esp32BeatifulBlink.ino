@@ -4,7 +4,7 @@
 #include "index.h"
 
 String prevState;
-const char* ssid     = "droneNigga";
+const char* ssid     = "blinkSite";
 // Wifi password
 const char* password = "Kadenisagenius";
 
