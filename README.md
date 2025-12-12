@@ -6,6 +6,10 @@ Leveraging C++ microcontroller programming skills, I built this ESP32 project to
 This project transforms an ESP32 microcontroller into a standalone web-controlled LED device. It hosts its own Wi-Fi access point, serves an HTML/CSS/JavaScript interface, and uses WebSockets for real-time communication to toggle an LED connected to a GPIO pin.
 
 Through this project, I developed skills in network programming, asynchronous communication protocols, embedded web server implementation, responsive UI design, client-server architecture, and security considerations for IoT devices.
+## Demo Vid
+[![Watch the video](https://img.youtube.com/vi/MtGsBnDhFA8/maxresdefault.jpg)](https://youtu.be/MtGsBnDhFA8)
+
+### [Watch this video on YouTube](https://youtu.be/MtGsBnDhFA8)
 
 ## Date Completed
 January 2024
