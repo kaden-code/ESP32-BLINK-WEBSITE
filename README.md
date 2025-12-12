@@ -7,6 +7,7 @@ This project transforms an ESP32 microcontroller into a standalone web-controlle
 
 Through this project, I developed skills in network programming, asynchronous communication protocols, embedded web server implementation, responsive UI design, client-server architecture, and security considerations for IoT devices.
 ## Demo Vid
+[![Watch the video](https://i.ytimg.com/vi/MtGsBnDhFA8/hqdefault.jpg)](https://youtu.be/MtGsBnDhFA8)
 
 
 ## Date Completed
