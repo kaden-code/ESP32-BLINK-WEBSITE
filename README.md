@@ -9,6 +9,7 @@ Through this project, I developed skills in network programming, asynchronous co
 ## Demo Vid
 [![Watch the video](https://i.ytimg.com/vi/MtGsBnDhFA8/hqdefault.jpg)](https://youtu.be/MtGsBnDhFA8)
 
+### [Watch this video on YouTube](https://youtu.be/MtGsBnDhFA8)
 
 ## Date Completed
 January 2024
